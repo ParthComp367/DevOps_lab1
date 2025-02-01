@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\College\\Semester 6\\Devops\\Lab1\\comp367Savjani-lab1\\Comp367_Parth_Lab1\\Comp367_Parth_Lab1\\Comp367_Parth_Lab1.csproj": {}
+    "E:\\College\\Semester 6\\Devops\\Lab1\\comp367Savjani-lab1\\Comp367_Parth_Lab1\\Comp367_Parth_Lab1\\Comp367_Parth_Lab1.csproj": {}
   },
   "projects": {
-    "e:\\College\\Semester 6\\Devops\\Lab1\\comp367Savjani-lab1\\Comp367_Parth_Lab1\\Comp367_Parth_Lab1\\Comp367_Parth_Lab1.csproj": {
+    "E:\\College\\Semester 6\\Devops\\Lab1\\comp367Savjani-lab1\\Comp367_Parth_Lab1\\Comp367_Parth_Lab1\\Comp367_Parth_Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\College\\Semester 6\\Devops\\Lab1\\comp367Savjani-lab1\\Comp367_Parth_Lab1\\Comp367_Parth_Lab1\\Comp367_Parth_Lab1.csproj",
+        "projectUniqueName": "E:\\College\\Semester 6\\Devops\\Lab1\\comp367Savjani-lab1\\Comp367_Parth_Lab1\\Comp367_Parth_Lab1\\Comp367_Parth_Lab1.csproj",
         "projectName": "Comp367_Parth_Lab1",
-        "projectPath": "e:\\College\\Semester 6\\Devops\\Lab1\\comp367Savjani-lab1\\Comp367_Parth_Lab1\\Comp367_Parth_Lab1\\Comp367_Parth_Lab1.csproj",
+        "projectPath": "E:\\College\\Semester 6\\Devops\\Lab1\\comp367Savjani-lab1\\Comp367_Parth_Lab1\\Comp367_Parth_Lab1\\Comp367_Parth_Lab1.csproj",
         "packagesPath": "C:\\Users\\parth\\.nuget\\packages\\",
-        "outputPath": "e:\\College\\Semester 6\\Devops\\Lab1\\comp367Savjani-lab1\\Comp367_Parth_Lab1\\Comp367_Parth_Lab1\\obj\\",
+        "outputPath": "E:\\College\\Semester 6\\Devops\\Lab1\\comp367Savjani-lab1\\Comp367_Parth_Lab1\\Comp367_Parth_Lab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\parth\\AppData\\Roaming\\NuGet\\NuGet.Config",
